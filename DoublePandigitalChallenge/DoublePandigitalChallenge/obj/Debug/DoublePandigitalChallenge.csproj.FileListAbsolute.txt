@@ -1,0 +1,9 @@
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\DoublePandigitalChallenge.exe.config
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\DoublePandigitalChallenge.exe
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\DoublePandigitalChallenge.pdb
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\Combinatorics.dll
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\bin\Debug\Combinatorics.xml
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\obj\Debug\DoublePandigitalChallenge.csprojResolveAssemblyReference.cache
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\obj\Debug\DoublePandigitalChallenge.exe
+C:\Users\nichj\OneDrive\Documents\Visual Studio 2015\Projects\DoublePandigitalChallenge\DoublePandigitalChallenge\DoublePandigitalChallenge\obj\Debug\DoublePandigitalChallenge.pdb
